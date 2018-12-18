@@ -1,0 +1,2878 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Beeta 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-10-02 13:26+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../beeta/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../beeta/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, name "
+"changed or is temporarity unavailable."
+msgstr ""
+
+#: ../beeta/404.php:22
+msgid "Back to home"
+msgstr ""
+
+#: ../beeta/404.php:22
+msgid "Back to home page"
+msgstr ""
+
+#: ../beeta/archive.php:65 ../beeta/author.php:59 ../beeta/category.php:59
+#: ../beeta/functions.php:1179 ../beeta/image.php:52 ../beeta/index.php:69
+#: ../beeta/search.php:55 ../beeta/single.php:45 ../beeta/tag.php:59
+#: ../beeta/theme-config.php:1204
+msgid "Blog"
+msgstr ""
+
+#: ../beeta/author.php:84
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../beeta/author.php:113
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../beeta/category.php:76
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:327 ../beeta/functions.php:1582
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:328 ../beeta/functions.php:1583
+msgid "Install Plugins"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:330 ../beeta/functions.php:1584
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:333 ../beeta/functions.php:1585
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:385 ../beeta/functions.php:1596
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:386
+#: ../beeta/class-tgm-plugin-activation.php:827
+#: ../beeta/class-tgm-plugin-activation.php:2533
+#: ../beeta/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:387
+#: ../beeta/class-tgm-plugin-activation.php:3159 ../beeta/functions.php:1597
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:388
+#: ../beeta/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:934
+#: ../beeta/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2554
+#: ../beeta/woocommerce/myaccount/my-orders.php:42
+#: ../beeta/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3509
+#: ../beeta/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3509
+#: ../beeta/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../beeta/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../beeta/comments.php:31 ../beeta/functions.php:1390
+msgid "1 comment"
+msgstr ""
+
+#: ../beeta/comments.php:51 ../twentyfifteen/comments.php:71
+#: ../twentyseventeen/comments.php:82 ../twentysixteen/comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../beeta/content-audio.php:60 ../beeta/content-audio.php:73
+#: ../beeta/content-audio.php:88 ../beeta/content-gallery.php:62
+#: ../beeta/content-gallery.php:75 ../beeta/content-gallery.php:90
+#: ../beeta/content-image.php:64 ../beeta/content-image.php:77
+#: ../beeta/content-image.php:92 ../beeta/content-video.php:60
+#: ../beeta/content-video.php:73 ../beeta/content-video.php:88
+#: ../beeta/content.php:59 ../beeta/content.php:72 ../beeta/content.php:87
+msgid "Posts by"
+msgstr ""
+
+#: ../beeta/content-audio.php:81 ../beeta/content-gallery.php:83
+#: ../beeta/content-image.php:85 ../beeta/content-video.php:81
+#: ../beeta/content.php:80
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../beeta/content-audio.php:82 ../beeta/content-gallery.php:84
+#: ../beeta/content-image.php:86 ../beeta/content-page.php:20
+#: ../beeta/content-video.php:82 ../beeta/content.php:81 ../beeta/image.php:125
+#: ../twentyfifteen/content-link.php:39 ../twentyfifteen/content-page.php:26
+#: ../twentyfifteen/content.php:41 ../twentyfifteen/image.php:61
+#: ../twentyseventeen/template-parts/page/content-page.php:26
+#: ../twentyseventeen/template-parts/post/content-audio.php:91
+#: ../twentyseventeen/template-parts/post/content-gallery.php:78
+#: ../twentyseventeen/template-parts/post/content-image.php:68
+#: ../twentyseventeen/template-parts/post/content-video.php:90
+#: ../twentyseventeen/template-parts/post/content.php:64
+#: ../twentysixteen/image.php:58
+#: ../twentysixteen/template-parts/content-page.php:24
+#: ../twentysixteen/template-parts/content-single.php:26
+#: ../twentysixteen/template-parts/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: ../beeta/content-audio.php:98 ../beeta/content-gallery.php:99
+#: ../beeta/content-image.php:101 ../beeta/content-video.php:97
+#: ../beeta/content.php:96
+msgid "Read more"
+msgstr ""
+
+#: ../beeta/content-audio.php:122 ../beeta/content-gallery.php:123
+#: ../beeta/content-image.php:125 ../beeta/content-video.php:121
+#: ../beeta/content.php:118
+msgid "About the Author:"
+msgstr ""
+
+#: ../beeta/content-audio.php:135 ../beeta/content-gallery.php:136
+#: ../beeta/content-image.php:138 ../beeta/content-video.php:134
+#: ../beeta/content.php:134
+msgid "Related posts"
+msgstr ""
+
+#: ../beeta/content-none.php:13 ../beeta/index.php:116 ../beeta/search.php:88
+#: ../twentyfifteen/content-none.php:15 ../twentyseventeen/search.php:21
+#: ../twentyseventeen/template-parts/post/content-none.php:17
+#: ../twentysixteen/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../beeta/content-none.php:17 ../beeta/index.php:120
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../beeta/functions.php:234 ../beeta/functions.php:810
+#: ../beeta/functions.php:816 ../beeta/functions.php:820
+msgid "Search..."
+msgstr ""
+
+#: ../beeta/functions.php:243 ../beeta/functions.php:265
+msgid "search"
+msgstr ""
+
+#: ../beeta/functions.php:259 ../beeta/functions.php:794
+#: ../beeta/functions.php:800 ../beeta/functions.php:804
+msgid "Search product..."
+msgstr ""
+
+#: ../beeta/functions.php:414 ../twentyfifteen/functions.php:86
+#: ../twentysixteen/functions.php:91 ../twentysixteen/header.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: ../beeta/functions.php:415
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../beeta/functions.php:416 ../beeta/include/map_shortcodes.php:135
+msgid "Categories Menu"
+msgstr ""
+
+#: ../beeta/functions.php:899 ../twentyseventeen/functions.php:324
+#: ../twentyseventeen/sidebar.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../beeta/functions.php:901
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../beeta/functions.php:909
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../beeta/functions.php:911
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../beeta/functions.php:919
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../beeta/functions.php:921
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../beeta/functions.php:958
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../beeta/functions.php:979
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../beeta/functions.php:983
+msgid "- None -"
+msgstr ""
+
+#: ../beeta/functions.php:998
+msgid "Sidebar position"
+msgstr ""
+
+#: ../beeta/functions.php:1002
+msgid "Left"
+msgstr ""
+
+#: ../beeta/functions.php:1003
+msgid "Right"
+msgstr ""
+
+#: ../beeta/functions.php:1128 ../beeta/functions.php:1173
+msgid "Home"
+msgstr ""
+
+#: ../beeta/functions.php:1159 ../beeta/functions.php:1160
+#: ../beeta/functions.php:1161
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../beeta/functions.php:1160
+msgid "F Y"
+msgstr ""
+
+#: ../beeta/functions.php:1161
+msgid "Y"
+msgstr ""
+
+#: ../beeta/functions.php:1162
+msgid "Archive for"
+msgstr ""
+
+#: ../beeta/functions.php:1163
+msgid "Blog Archives"
+msgstr ""
+
+#: ../beeta/functions.php:1164
+msgid "Search Results"
+msgstr ""
+
+#: ../beeta/functions.php:1248 ../twentyfifteen/functions.php:214
+#: ../twentyfifteen/functions.php:222 ../twentyfifteen/functions.php:230
+#: ../twentyseventeen/functions.php:277 ../twentysixteen/functions.php:217
+#: ../twentysixteen/functions.php:222 ../twentysixteen/functions.php:227
+msgid "on"
+msgstr ""
+
+#: ../beeta/functions.php:1279 ../beeta/single.php:72
+msgid "Post navigation"
+msgstr ""
+
+#: ../beeta/functions.php:1280
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../beeta/functions.php:1281
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../beeta/functions.php:1298 ../twentyfifteen/single.php:38
+#: ../twentyseventeen/comments.php:71 ../twentyseventeen/single.php:33
+#: ../twentysixteen/single.php:41
+msgid "Previous"
+msgstr ""
+
+#: ../beeta/functions.php:1299 ../twentyfifteen/single.php:35
+#: ../twentyseventeen/comments.php:72 ../twentyseventeen/single.php:34
+#: ../twentysixteen/single.php:38
+msgid "Next"
+msgstr ""
+
+#: ../beeta/functions.php:1323
+msgid "Pingback:"
+msgstr ""
+
+#: ../beeta/functions.php:1323
+msgid "(Edit)"
+msgstr ""
+
+#: ../beeta/functions.php:1342
+msgid "Post author"
+msgstr ""
+
+#: ../beeta/functions.php:1347
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../beeta/functions.php:1351 ../twentyseventeen/comments.php:62
+msgid "Reply"
+msgstr ""
+
+#: ../beeta/functions.php:1355
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../beeta/functions.php:1360 ../beeta/image.php:152
+#: ../twentyfifteen/content-link.php:60 ../twentyfifteen/content-page.php:37
+#: ../twentyfifteen/content-search.php:28 ../twentyfifteen/content-search.php:33
+#: ../twentyfifteen/content.php:61 ../twentyfifteen/image.php:74
+msgid "Edit"
+msgstr ""
+
+#: ../beeta/functions.php:1386
+msgid "0 comments"
+msgstr ""
+
+#: ../beeta/functions.php:1388 ../beeta/functions.php:1430
+#: ../beeta/include/shortcodes.php:399
+msgid " comments"
+msgstr ""
+
+#: ../beeta/functions.php:1395
+#, php-format
+msgid "%1$s Tags: %2$s"
+msgstr ""
+
+#: ../beeta/functions.php:1406 ../twentyfifteen/author-bio.php:34
+#: ../twentysixteen/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../beeta/functions.php:1410
+#, php-format
+msgid "Posted by %1$s  %2$s"
+msgstr ""
+
+#: ../beeta/functions.php:1428 ../beeta/include/shortcodes.php:397
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../beeta/functions.php:1432 ../beeta/include/shortcodes.php:401
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../beeta/functions.php:1437
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../beeta/functions.php:1448
+msgid "Roadthemes Helper"
+msgstr ""
+
+#: ../beeta/functions.php:1458
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../beeta/functions.php:1465
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../beeta/functions.php:1479
+msgid "Visual Composer"
+msgstr ""
+
+#: ../beeta/functions.php:1486
+msgid "Templatera"
+msgstr ""
+
+#: ../beeta/functions.php:1493
+msgid "Essential Grid"
+msgstr ""
+
+#: ../beeta/functions.php:1502
+msgid "Redux Framework"
+msgstr ""
+
+#: ../beeta/functions.php:1509
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../beeta/functions.php:1515
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../beeta/functions.php:1520
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../beeta/functions.php:1525
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../beeta/functions.php:1530 ../beeta/include/map_shortcodes.php:335
+#: ../beeta/theme-config.php:1281
+msgid "Testimonials"
+msgstr ""
+
+#: ../beeta/functions.php:1535
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../beeta/functions.php:1540
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../beeta/functions.php:1545
+msgid "WooCommerce"
+msgstr ""
+
+#: ../beeta/functions.php:1550
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../beeta/functions.php:1555
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../beeta/functions.php:1560
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../beeta/functions.php:1598
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../beeta/image.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in "
+"<a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../beeta/image.php:162
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../beeta/image.php:163
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:8
+msgid "Beeta Widgets"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:128
+msgid "says"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:169
+#: ../beeta/include/vertical_menu_widgets.php:88
+msgid "Title:"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:173
+msgid "Amount:"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:177
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:181
+msgid "Widget Type:"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:183
+msgid "Recent Posts"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:184
+msgid "Popular Posts"
+msgstr ""
+
+#: ../beeta/include/beetawidgets.php:185
+msgid "Recent Comments"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:7
+msgid "Yes"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:8
+msgid "No"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:13
+msgid "Fade"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:14
+msgid "Slide"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:20
+msgid "Enable slider"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:24 ../beeta/include/map_shortcodes.php:30
+#: ../beeta/include/map_shortcodes.php:37 ../beeta/include/map_shortcodes.php:44
+#: ../beeta/include/map_shortcodes.php:51 ../beeta/include/map_shortcodes.php:58
+#: ../beeta/include/map_shortcodes.php:67 ../beeta/include/map_shortcodes.php:75
+#: ../beeta/include/map_shortcodes.php:83 ../beeta/include/map_shortcodes.php:90
+#: ../beeta/include/map_shortcodes.php:97 ../beeta/include/map_shortcodes.php:105
+msgid "Slider Options"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:28
+msgid "Items Default"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:35
+msgid "Item Desktop"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:42
+msgid "Item Small"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:49
+msgid "Item Tablet"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:56
+msgid "Item Mobile"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:63
+msgid "Navigation"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:71
+msgid "Pagination"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:79
+msgid "Speed sider"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:87
+msgid "Slider Auto"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:94
+msgid "Slider loop"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:101
+msgid "Effects"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:117
+msgid "Main Menu"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:120
+#: ../beeta/include/map_shortcodes.php:138
+#: ../beeta/include/map_shortcodes.php:149
+#: ../beeta/include/map_shortcodes.php:159
+#: ../beeta/include/map_shortcodes.php:169
+#: ../beeta/include/map_shortcodes.php:178
+#: ../beeta/include/map_shortcodes.php:212
+#: ../beeta/include/map_shortcodes.php:238
+#: ../beeta/include/map_shortcodes.php:271
+#: ../beeta/include/map_shortcodes.php:290
+#: ../beeta/include/map_shortcodes.php:338
+#: ../beeta/include/map_shortcodes.php:408
+#: ../beeta/include/map_shortcodes.php:426
+#: ../beeta/include/map_shortcodes.php:460
+#: ../beeta/include/map_shortcodes.php:728
+msgid "Theme"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:126
+msgid "Upload sticky logo image"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:146
+msgid "Mini Cart"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:156
+msgid "Product Search"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:166 ../beeta/theme-config.php:697
+msgid "Copyright information"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:175 ../beeta/theme-config.php:891
+msgid "Brand Logos"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:185
+#: ../beeta/include/map_shortcodes.php:245
+#: ../beeta/include/map_shortcodes.php:313
+msgid "Number of columns"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:187
+#: ../beeta/include/map_shortcodes.php:247
+msgid "6"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:193
+#: ../beeta/include/map_shortcodes.php:253
+#: ../beeta/include/map_shortcodes.php:321
+msgid "Number of rows"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:209
+msgid "Popular Categories"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:218
+msgid "Category slug"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:226
+msgid "Thumbnail URL"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:235
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:268
+msgid "Newsletter Form (MailPoet)"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:277
+msgid "Form ID"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:280
+msgid "Enter form ID here"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:287
+msgid "Latest posts"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:296
+msgid "Number of posts"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:298
+msgid "5"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:305
+msgid "Excerpt length"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:307
+msgid "20"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:315
+msgid "4"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:344
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:346
+msgid "10"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:352
+msgid "Display Author"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:363
+msgid "Display Avatar"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:374
+msgid "Avatar image size"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:377
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:383
+msgid "Display URL"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:394 ../beeta/include/shortcodes.php:55
+#: ../beeta/include/vertical_menu_widgets.php:53
+msgid "Category"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:396
+msgid "0"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:397
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:405
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:414
+msgid "Twitter user name"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:423
+msgid "Twitter feed"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:432
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:440
+msgid "Number Of Tweets"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:457
+msgid "Google map"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:466
+msgid "Map Height"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:468
+msgid "400"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:469
+msgid "Map height in pixels. Default is 400"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:475
+msgid "Map Zoom"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:477
+msgid "17"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:478
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:484
+#: ../beeta/include/map_shortcodes.php:532
+#: ../beeta/include/map_shortcodes.php:580
+#: ../beeta/include/map_shortcodes.php:628
+#: ../beeta/include/map_shortcodes.php:676
+msgid "Latitude"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:493
+#: ../beeta/include/map_shortcodes.php:541
+#: ../beeta/include/map_shortcodes.php:589
+#: ../beeta/include/map_shortcodes.php:637
+#: ../beeta/include/map_shortcodes.php:685
+msgid "Longtitude"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:502
+#: ../beeta/include/map_shortcodes.php:550
+#: ../beeta/include/map_shortcodes.php:598
+#: ../beeta/include/map_shortcodes.php:646
+#: ../beeta/include/map_shortcodes.php:694
+msgid "Address"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:505
+#: ../beeta/include/map_shortcodes.php:553
+#: ../beeta/include/map_shortcodes.php:601
+#: ../beeta/include/map_shortcodes.php:649
+#: ../beeta/include/map_shortcodes.php:697
+msgid "If you donot enter coordinate, enter address here"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:512
+#: ../beeta/include/map_shortcodes.php:560
+#: ../beeta/include/map_shortcodes.php:608
+#: ../beeta/include/map_shortcodes.php:656
+#: ../beeta/include/map_shortcodes.php:704
+msgid "Marker image"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:515
+msgid "Upload marker image, image size: 40x46 px"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:522
+#: ../beeta/include/map_shortcodes.php:570
+#: ../beeta/include/map_shortcodes.php:618
+#: ../beeta/include/map_shortcodes.php:666
+#: ../beeta/include/map_shortcodes.php:714 ../beeta/theme-config.php:919
+msgid "Description"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:525
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:563
+#: ../beeta/include/map_shortcodes.php:611
+#: ../beeta/include/map_shortcodes.php:659
+#: ../beeta/include/map_shortcodes.php:707
+msgid "Upload marker image"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:573
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:621
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:669
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:717
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:725
+msgid "Counter"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:734
+msgid "Image icon"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:737
+msgid "Upload icon image"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:743
+msgid "Number"
+msgstr ""
+
+#: ../beeta/include/map_shortcodes.php:751
+msgid "Text"
+msgstr ""
+
+#: ../beeta/include/shortcodes.php:59
+#: ../beeta/include/vertical_menu_widgets.php:57
+msgid "More Categories"
+msgstr ""
+
+#: ../beeta/include/shortcodes.php:60
+#: ../beeta/include/vertical_menu_widgets.php:58
+msgid "Close Menu"
+msgstr ""
+
+#: ../beeta/include/shortcodes.php:102 ../twentyfifteen/inc/template-tags.php:99
+#: ../twentyseventeen/inc/template-tags.php:85
+#: ../twentysixteen/inc/template-tags.php:103
+msgid "Categories"
+msgstr ""
+
+#: ../beeta/include/vertical_menu_widgets.php:8
+msgid "Vertial Menu Widgets"
+msgstr ""
+
+#: ../beeta/include/vertical_menu_widgets.php:11
+msgid "Display vertical menu"
+msgstr ""
+
+#: ../beeta/include/wooajax.php:114
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../beeta/include/wooajax.php:132
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../beeta/include/wooajax.php:153 ../beeta/woocommerce/cart/mini-cart.php:87
+msgid "View Cart"
+msgstr ""
+
+#: ../beeta/index.php:105
+msgid "No posts to display"
+msgstr ""
+
+#: ../beeta/index.php:109
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../beeta/projects/archive-project.php:25
+#: ../beeta/projects/content-single-project.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: ../beeta/projects/archive-project.php:81
+msgid "All"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:216
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:222
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:351
+#: ../beeta/road_importdata/importer.php:399
+#: ../beeta/road_importdata/importer.php:403
+#: ../beeta/road_importdata/importer.php:412
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:404
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this "
+"was caused by a permissions problem."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:420
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:470
+msgid "Assign Authors"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:471
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want "
+"to reassign the author of the imported item to an existing user of this site. "
+"For example, you may want to import all the entries as <code>admin</code>s "
+"entries."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:473
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:483
+msgid "Import Attachments"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:486
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:490
+msgid "Submit"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:503
+msgid "Import author:"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:514
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:517
+msgid "as a new user:"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:525
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:527
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:528
+msgid "- Select -"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:578
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1080
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1161
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1187
+msgid "Invalid file type"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1234
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1240
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1247
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1252
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1258
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1358
+msgid "Import WordPress"
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1365
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1380
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: ../beeta/road_importdata/importer.php:1381
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../beeta/road_importdata/parsers.php:42
+#: ../beeta/road_importdata/parsers.php:78
+#: ../beeta/road_importdata/parsers.php:87
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../beeta/road_importdata/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../beeta/road_importdata/parsers.php:91
+#: ../beeta/road_importdata/parsers.php:96
+#: ../beeta/road_importdata/parsers.php:291
+#: ../beeta/road_importdata/parsers.php:476
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../beeta/search.php:72 ../twentyfifteen/search.php:18
+#: ../twentyseventeen/search.php:19 ../twentysixteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../beeta/search.php:92
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../beeta/single.php:73
+msgid "&larr;"
+msgstr ""
+
+#: ../beeta/single.php:74
+msgid "&rarr;"
+msgstr ""
+
+#: ../beeta/tag.php:76
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../beeta/theme-config.php:97
+msgid "Section via hook"
+msgstr ""
+
+#: ../beeta/theme-config.php:98
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../beeta/theme-config.php:160
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../beeta/theme-config.php:167 ../beeta/theme-config.php:170
+msgid "Current theme preview"
+msgstr ""
+
+#: ../beeta/theme-config.php:177
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../beeta/theme-config.php:178
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../beeta/theme-config.php:179 ../twentyfifteen/inc/template-tags.php:108
+#: ../twentyseventeen/inc/template-tags.php:89
+#: ../twentysixteen/inc/template-tags.php:112
+msgid "Tags"
+msgstr ""
+
+#: ../beeta/theme-config.php:184
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../beeta/theme-config.php:184
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../beeta/theme-config.php:200
+msgid "General"
+msgstr ""
+
+#: ../beeta/theme-config.php:201
+msgid "General theme options"
+msgstr ""
+
+#: ../beeta/theme-config.php:208
+msgid "Body background"
+msgstr ""
+
+#: ../beeta/theme-config.php:209
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:216
+msgid "Page content background"
+msgstr ""
+
+#: ../beeta/theme-config.php:217
+msgid "Select background for page content (default: transparent)."
+msgstr ""
+
+#: ../beeta/theme-config.php:223
+msgid "Border Option"
+msgstr ""
+
+#: ../beeta/theme-config.php:224
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../beeta/theme-config.php:230
+msgid "Back To Top"
+msgstr ""
+
+#: ../beeta/theme-config.php:231
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../beeta/theme-config.php:238
+msgid "Colors"
+msgstr ""
+
+#: ../beeta/theme-config.php:239
+msgid "Color options"
+msgstr ""
+
+#: ../beeta/theme-config.php:245
+msgid "Primary Color"
+msgstr ""
+
+#: ../beeta/theme-config.php:246
+msgid "Pick a color for primary color (default: #e53131)."
+msgstr ""
+
+#: ../beeta/theme-config.php:256
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../beeta/theme-config.php:257
+msgid "Pick a color for bg sale label (default: #ffffff)."
+msgstr ""
+
+#: ../beeta/theme-config.php:267
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../beeta/theme-config.php:268
+msgid "Pick a color for sale label text (default: #e53131)."
+msgstr ""
+
+#: ../beeta/theme-config.php:278
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../beeta/theme-config.php:279
+msgid "Pick a color for star of rating (default: #e53131)."
+msgstr ""
+
+#: ../beeta/theme-config.php:288 ../twentysixteen/inc/customizer.php:186
+msgid "Link Color"
+msgstr ""
+
+#: ../beeta/theme-config.php:289
+msgid "Pick a color for link (default: #656565)."
+msgstr ""
+
+#: ../beeta/theme-config.php:300
+msgid "Text selected background"
+msgstr ""
+
+#: ../beeta/theme-config.php:301
+msgid "Select background for selected text (default: #1187c1)."
+msgstr ""
+
+#: ../beeta/theme-config.php:309
+msgid "Text selected color"
+msgstr ""
+
+#: ../beeta/theme-config.php:310
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../beeta/theme-config.php:338
+msgid "Header"
+msgstr ""
+
+#: ../beeta/theme-config.php:339
+msgid "Header options"
+msgstr ""
+
+#: ../beeta/theme-config.php:346
+msgid "Header Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:348 ../beeta/theme-config.php:647
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:357
+msgid "Header background"
+msgstr ""
+
+#: ../beeta/theme-config.php:358 ../beeta/theme-config.php:657
+#: ../beeta/theme-config.php:1315
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../beeta/theme-config.php:365
+msgid "Header text color"
+msgstr ""
+
+#: ../beeta/theme-config.php:366
+msgid "Pick a color for top bar text color (default: #8d8d8d)."
+msgstr ""
+
+#: ../beeta/theme-config.php:374
+msgid "Header link color"
+msgstr ""
+
+#: ../beeta/theme-config.php:375
+msgid "Pick a color for header link color (default: #8d8d8d)."
+msgstr ""
+
+#: ../beeta/theme-config.php:386
+msgid "Header border color"
+msgstr ""
+
+#: ../beeta/theme-config.php:401
+msgid "Sticky header"
+msgstr ""
+
+#: ../beeta/theme-config.php:407
+msgid "Use sticky header"
+msgstr ""
+
+#: ../beeta/theme-config.php:413
+msgid "Header sticky background"
+msgstr ""
+
+#: ../beeta/theme-config.php:443
+msgid "Top Bar"
+msgstr ""
+
+#: ../beeta/theme-config.php:451
+msgid "Top bar text color"
+msgstr ""
+
+#: ../beeta/theme-config.php:452 ../beeta/theme-config.php:676
+msgid "Pick a color for top bar text color (default: #999999)."
+msgstr ""
+
+#: ../beeta/theme-config.php:461
+msgid "Top bar link color"
+msgstr ""
+
+#: ../beeta/theme-config.php:462
+msgid "Pick a color for top bar link color (default: #999999)."
+msgstr ""
+
+#: ../beeta/theme-config.php:475
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:17
+#: ../twentysixteen/header.php:49
+msgid "Menu"
+msgstr ""
+
+#: ../beeta/theme-config.php:481
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../beeta/theme-config.php:482
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../beeta/theme-config.php:489
+msgid "Submenu background"
+msgstr ""
+
+#: ../beeta/theme-config.php:490
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../beeta/theme-config.php:499
+msgid "Submenu color"
+msgstr ""
+
+#: ../beeta/theme-config.php:500
+msgid "Pick a color for sub menu color (default: #292929)."
+msgstr ""
+
+#: ../beeta/theme-config.php:509
+msgid "Vertical Menu"
+msgstr ""
+
+#: ../beeta/theme-config.php:516
+msgid "Category menu background"
+msgstr ""
+
+#: ../beeta/theme-config.php:517
+msgid "Pick a color for category menu background (default: #ffffff)."
+msgstr ""
+
+#: ../beeta/theme-config.php:525
+msgid "Category menu label"
+msgstr ""
+
+#: ../beeta/theme-config.php:526
+msgid "The label for category menu"
+msgstr ""
+
+#: ../beeta/theme-config.php:532
+msgid "Number of items"
+msgstr ""
+
+#: ../beeta/theme-config.php:533
+msgid "Number of menu items level 1 to show, default value: 8"
+msgstr ""
+
+#: ../beeta/theme-config.php:543
+msgid "More items label"
+msgstr ""
+
+#: ../beeta/theme-config.php:544
+msgid "The label for more items button"
+msgstr ""
+
+#: ../beeta/theme-config.php:550
+msgid "Less items label"
+msgstr ""
+
+#: ../beeta/theme-config.php:551
+msgid "The label for less items button"
+msgstr ""
+
+#: ../beeta/theme-config.php:557
+msgid "Home Category Menu"
+msgstr ""
+
+#: ../beeta/theme-config.php:558
+msgid "Always show category menu on home page"
+msgstr ""
+
+#: ../beeta/theme-config.php:564
+msgid "Inner Category Menu"
+msgstr ""
+
+#: ../beeta/theme-config.php:565
+msgid "Always show category menu on inner pages"
+msgstr ""
+
+#: ../beeta/theme-config.php:573 ../beeta/theme-config.php:580
+msgid "Social Icons"
+msgstr ""
+
+#: ../beeta/theme-config.php:581
+msgid "Enter social links"
+msgstr ""
+
+#: ../beeta/theme-config.php:582
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../beeta/theme-config.php:637
+#: ../twentyseventeen/template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr ""
+
+#: ../beeta/theme-config.php:638
+msgid "Footer options"
+msgstr ""
+
+#: ../beeta/theme-config.php:645
+msgid "Footer Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:656
+msgid "Footer background"
+msgstr ""
+
+#: ../beeta/theme-config.php:663
+msgid "Footer border color"
+msgstr ""
+
+#: ../beeta/theme-config.php:675
+msgid "Footer text color"
+msgstr ""
+
+#: ../beeta/theme-config.php:685
+msgid "Footer link color"
+msgstr ""
+
+#: ../beeta/theme-config.php:686
+msgid "Pick a color for footer link color (default: #999999)."
+msgstr ""
+
+#: ../beeta/theme-config.php:698
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: ../beeta/theme-config.php:711
+msgid "Fonts"
+msgstr ""
+
+#: ../beeta/theme-config.php:712
+msgid "Fonts options"
+msgstr ""
+
+#: ../beeta/theme-config.php:719
+msgid "Body font"
+msgstr ""
+
+#: ../beeta/theme-config.php:736
+msgid "Main body font."
+msgstr ""
+
+#: ../beeta/theme-config.php:749
+msgid "Heading font"
+msgstr ""
+
+#: ../beeta/theme-config.php:766
+msgid "Heading font."
+msgstr ""
+
+#: ../beeta/theme-config.php:777
+msgid "Menu font"
+msgstr ""
+
+#: ../beeta/theme-config.php:794
+msgid "Menu font."
+msgstr ""
+
+#: ../beeta/theme-config.php:806
+msgid "Price font"
+msgstr ""
+
+#: ../beeta/theme-config.php:823
+msgid "Price font."
+msgstr ""
+
+#: ../beeta/theme-config.php:837
+msgid "Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:838
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../beeta/theme-config.php:845 ../twentyseventeen/inc/customizer.php:96
+msgid "Page Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:855
+msgid "Box layout width"
+msgstr ""
+
+#: ../beeta/theme-config.php:856
+msgid "Box layout width in pixels, default value: 1230"
+msgstr ""
+
+#: ../beeta/theme-config.php:866
+msgid "Preset"
+msgstr ""
+
+#: ../beeta/theme-config.php:867
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../beeta/theme-config.php:882
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../beeta/theme-config.php:883
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../beeta/theme-config.php:892
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../beeta/theme-config.php:898 ../beeta/theme-config.php:935
+#: ../beeta/theme-config.php:1288
+msgid "Auto scroll"
+msgstr ""
+
+#: ../beeta/theme-config.php:904 ../beeta/theme-config.php:941
+#: ../beeta/theme-config.php:1269 ../beeta/theme-config.php:1294
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../beeta/theme-config.php:905 ../beeta/theme-config.php:942
+#: ../beeta/theme-config.php:1270 ../beeta/theme-config.php:1295
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../beeta/theme-config.php:915
+msgid "Logos"
+msgstr ""
+
+#: ../beeta/theme-config.php:916
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../beeta/theme-config.php:918 ../beeta/theme-config.php:955
+#: ../beeta/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../beeta/theme-config.php:920 ../beeta/theme-config.php:957
+msgid "Link"
+msgstr ""
+
+#: ../beeta/theme-config.php:928
+msgid "Categories carousel"
+msgstr ""
+
+#: ../beeta/theme-config.php:929
+msgid "Upload category logos and links"
+msgstr ""
+
+#: ../beeta/theme-config.php:952 ../beeta/woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr ""
+
+#: ../beeta/theme-config.php:953
+msgid "Upload Categories image and enter categories link."
+msgstr ""
+
+#: ../beeta/theme-config.php:956
+msgid "Number products"
+msgstr ""
+
+#: ../beeta/theme-config.php:965 ../twentysixteen/functions.php:165
+msgid "Sidebar"
+msgstr ""
+
+#: ../beeta/theme-config.php:966
+msgid "Sidebar options"
+msgstr ""
+
+#: ../beeta/theme-config.php:973
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../beeta/theme-config.php:974
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../beeta/theme-config.php:983
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../beeta/theme-config.php:984
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../beeta/theme-config.php:993
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../beeta/theme-config.php:994
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../beeta/theme-config.php:1003
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../beeta/theme-config.php:1004
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../beeta/theme-config.php:1005
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add more "
+"sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../beeta/theme-config.php:1012 ../beeta/woocommerce/cart/cart.php:35
+#: ../beeta/woocommerce/cart/cart.php:68
+#: ../beeta/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: ../beeta/theme-config.php:1013
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../beeta/theme-config.php:1019
+msgid "Shop Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:1029
+msgid "Shop default view"
+msgstr ""
+
+#: ../beeta/theme-config.php:1039
+msgid "Products per page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1040
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1050
+msgid "Product Styles"
+msgstr ""
+
+#: ../beeta/theme-config.php:1051
+msgid "Select a style to display product style"
+msgstr ""
+
+#: ../beeta/theme-config.php:1062
+msgid "Product columns"
+msgstr ""
+
+#: ../beeta/theme-config.php:1063
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1064 ../beeta/theme-config.php:1076
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../beeta/theme-config.php:1074
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../beeta/theme-config.php:1075
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1086
+msgid "Excerpt length on Short decription product"
+msgstr ""
+
+#: ../beeta/theme-config.php:1096
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../beeta/theme-config.php:1097
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+
+#: ../beeta/theme-config.php:1103 ../beeta/theme-config.php:1156
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../beeta/theme-config.php:1109
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../beeta/theme-config.php:1117
+msgid "background shop product"
+msgstr ""
+
+#: ../beeta/theme-config.php:1123
+msgid "Background"
+msgstr ""
+
+#: ../beeta/theme-config.php:1126
+msgid "Upload logo here."
+msgstr ""
+
+#: ../beeta/theme-config.php:1134
+msgid "Product page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1140
+msgid "Related products title"
+msgstr ""
+
+#: ../beeta/theme-config.php:1146
+msgid "Number of related products"
+msgstr ""
+
+#: ../beeta/theme-config.php:1162
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../beeta/theme-config.php:1163
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../beeta/theme-config.php:1169
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../beeta/theme-config.php:1170
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../beeta/theme-config.php:1177 ../beeta/theme-config.php:1196
+msgid "Quick View"
+msgstr ""
+
+#: ../beeta/theme-config.php:1183
+msgid "View details text"
+msgstr ""
+
+#: ../beeta/theme-config.php:1189
+msgid "View all features text"
+msgstr ""
+
+#: ../beeta/theme-config.php:1190
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../beeta/theme-config.php:1197
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../beeta/theme-config.php:1205
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../beeta/theme-config.php:1211
+msgid "Blog header text"
+msgstr ""
+
+#: ../beeta/theme-config.php:1217
+msgid "Blog Layout"
+msgstr ""
+
+#: ../beeta/theme-config.php:1229
+msgid "Read more text"
+msgstr ""
+
+#: ../beeta/theme-config.php:1235
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1246
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../beeta/theme-config.php:1252
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../beeta/theme-config.php:1258
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../beeta/theme-config.php:1259
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../beeta/theme-config.php:1282
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../beeta/theme-config.php:1306
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../beeta/theme-config.php:1307
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../beeta/theme-config.php:1314
+msgid "Error 404 background"
+msgstr ""
+
+#: ../beeta/theme-config.php:1323
+msgid "Less Compiler"
+msgstr ""
+
+#: ../beeta/theme-config.php:1324
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have finished "
+"changing theme options and your site is ready."
+msgstr ""
+
+#: ../beeta/theme-config.php:1330
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../beeta/theme-config.php:1337
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../beeta/theme-config.php:1338
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../beeta/theme-config.php:1339
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../beeta/theme-config.php:1343
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../beeta/theme-config.php:1348
+msgid "Import / Export"
+msgstr ""
+
+#: ../beeta/theme-config.php:1349
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../beeta/theme-config.php:1364
+msgid "Theme Information"
+msgstr ""
+
+#: ../beeta/theme-config.php:1380
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../beeta/theme-config.php:1381 ../beeta/theme-config.php:1387
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../beeta/theme-config.php:1386
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../beeta/theme-config.php:1391
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../beeta/theme-config.php:1411 ../beeta/theme-config.php:1412
+#: ../twentyseventeen/inc/customizer.php:81
+msgid "Theme Options"
+msgstr ""
+
+#: ../beeta/woocommerce/archive-product.php:140
+msgid "View on"
+msgstr ""
+
+#: ../beeta/woocommerce/archive-product.php:141
+msgid "Grid"
+msgstr ""
+
+#: ../beeta/woocommerce/archive-product.php:142
+msgid "List"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:36 ../beeta/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:37 ../beeta/woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:38 ../beeta/woocommerce/cart/cart.php:109
+#: ../beeta/woocommerce/checkout/review-order.php:18
+#: ../beeta/woocommerce/myaccount/my-orders.php:43
+#: ../beeta/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:121
+#: ../beeta/woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:156
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:157
+msgid "Coupon code"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/cart.php:157
+msgid "Apply coupon"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/mini-cart.php:30
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/mini-cart.php:32
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/mini-cart.php:74
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/mini-cart.php:75
+#: ../beeta/woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: ../beeta/woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; Shipping "
+"section."
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../beeta/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../beeta/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../beeta/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../beeta/woocommerce/class-wc-widget-cart.php:29
+#: ../beeta/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../beeta/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:41
+#: ../beeta/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../beeta/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../beeta/woocommerce/single-product/product-image-magnifier.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: ../twentyfifteen/404.php:17 ../twentyseventeen/404.php:21
+#: ../twentysixteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../twentyfifteen/404.php:21 ../twentyseventeen/404.php:24
+#: ../twentysixteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/index.php:48
+#: ../twentyfifteen/search.php:41 ../twentyseventeen/archive.php:48
+#: ../twentyseventeen/index.php:52 ../twentyseventeen/search.php:45
+#: ../twentysixteen/archive.php:51 ../twentysixteen/index.php:48
+#: ../twentysixteen/search.php:39
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:52 ../twentyfifteen/index.php:49
+#: ../twentyfifteen/search.php:42 ../twentyseventeen/archive.php:49
+#: ../twentyseventeen/index.php:53 ../twentyseventeen/search.php:46
+#: ../twentysixteen/archive.php:52 ../twentysixteen/index.php:49
+#: ../twentysixteen/search.php:40
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:53 ../twentyfifteen/content-link.php:43
+#: ../twentyfifteen/content-page.php:30 ../twentyfifteen/content.php:45
+#: ../twentyfifteen/image.php:65 ../twentyfifteen/index.php:50
+#: ../twentyfifteen/search.php:43 ../twentyseventeen/archive.php:50
+#: ../twentyseventeen/index.php:54 ../twentyseventeen/search.php:47
+#: ../twentysixteen/archive.php:53 ../twentysixteen/image.php:62
+#: ../twentysixteen/index.php:50 ../twentysixteen/search.php:41
+#: ../twentysixteen/template-parts/content-page.php:28
+#: ../twentysixteen/template-parts/content-single.php:30
+#: ../twentysixteen/template-parts/content.php:40
+msgid "Page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: ../twentyfifteen/comments.php:31 ../twentysixteen/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:32 ../twentyfifteen/content.php:34
+#: ../twentyfifteen/inc/template-tags.php:249
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:22
+#: ../twentyseventeen/template-parts/post/content-none.php:24
+#: ../twentysixteen/template-parts/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:26 ../twentyseventeen/search.php:54
+#: ../twentysixteen/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:31
+#: ../twentyseventeen/template-parts/post/content-none.php:28
+#: ../twentysixteen/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: ../twentyfifteen/footer.php:30
+#: ../twentyseventeen/template-parts/footer/site-info.php:18
+#: ../twentysixteen/footer.php:60
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:31
+#: ../twentyseventeen/template-parts/footer/site-info.php:19
+#: ../twentysixteen/footer.php:61
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:87 ../twentyseventeen/functions.php:65
+#: ../twentyseventeen/functions.php:202 ../twentysixteen/functions.php:92
+#: ../twentysixteen/header.php:66
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:185
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:187 ../twentysixteen/functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:238
+msgid "no-subset"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:311 ../twentysixteen/functions.php:301
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:312 ../twentysixteen/functions.php:302
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/header.php:26 ../twentyseventeen/header.php:27
+#: ../twentysixteen/header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfifteen/header.php:49
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../twentyfifteen/image.php:25 ../twentysixteen/image.php:25
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:25 ../twentysixteen/image.php:26
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:88 ../twentysixteen/image.php:107
+#: ../twentysixteen/single.php:31
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</"
+"span>"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:48
+#: ../twentyfifteen/inc/back-compat.php:62
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:51 ../twentysixteen/inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:71
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:72 ../twentyfifteen/inc/customizer.php:94
+#: ../twentyfifteen/inc/customizer.php:101
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:93
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:171
+#: ../twentysixteen/inc/customizer.php:294
+msgid "Default"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:182
+#: ../twentyseventeen/inc/customizer.php:58
+#: ../twentysixteen/inc/customizer.php:304
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:193
+#: ../twentysixteen/inc/customizer.php:334
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:204
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:215
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:226
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49
+#: ../twentysixteen/template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:56
+#: ../twentysixteen/inc/template-tags.php:40
+msgid "Format"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:79
+#: ../twentysixteen/inc/template-tags.php:83
+msgid "Posted on"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:89
+#: ../twentysixteen/inc/template-tags.php:26
+msgid "Author"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:95
+#: ../twentyfifteen/inc/template-tags.php:104
+#: ../twentyseventeen/inc/template-tags.php:66
+#: ../twentysixteen/inc/template-tags.php:99
+#: ../twentysixteen/inc/template-tags.php:108
+msgid ", "
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:120
+msgid "Full size"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:130
+#: ../twentysixteen/inc/template-tags.php:52
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../twentyfifteen/single.php:36 ../twentysixteen/single.php:39
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:39 ../twentysixteen/single.php:42
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyseventeen/comments.php:37
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../twentyseventeen/footer.php:26 ../twentysixteen/footer.php:30
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:64 ../twentyseventeen/functions.php:191
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:159
+msgid "Espresso"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:163
+msgid "Sandwich"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:167
+msgid "Coffee"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:326
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: ../twentyseventeen/functions.php:336
+msgid "Footer 1"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:338 ../twentyseventeen/functions.php:350
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../twentyseventeen/functions.php:348
+msgid "Footer 2"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:378
+#: ../twentyseventeen/template-parts/page/content-front-page-panels.php:45
+#: ../twentyseventeen/template-parts/page/content-front-page.php:42
+#: ../twentyseventeen/template-parts/post/content-audio.php:84
+#: ../twentyseventeen/template-parts/post/content-gallery.php:71
+#: ../twentyseventeen/template-parts/post/content-image.php:61
+#: ../twentyseventeen/template-parts/post/content-video.php:83
+#: ../twentyseventeen/template-parts/post/content.php:57
+#: ../twentysixteen/inc/template-tags.php:194
+#: ../twentysixteen/template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:466
+msgid "Expand child menu"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:467
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../twentyseventeen/inc/back-compat.php:39
+#: ../twentyseventeen/inc/back-compat.php:52
+#: ../twentyseventeen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:125
+msgid "Play background video"
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:126
+msgid "Pause background video"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:55
+msgid "Color Scheme"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:57
+msgid "Light"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:59
+msgid "Custom"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:99
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:101
+#: ../twentyseventeen/inc/customizer.php:157
+msgid "One Column"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:102
+#: ../twentyseventeen/inc/customizer.php:158
+msgid "Two Column"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:130
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:131
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: ../twentyseventeen/inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../twentyseventeen/inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:117 ../twentysixteen/image.php:88
+#: ../twentysixteen/template-parts/content-page.php:39
+#: ../twentysixteen/template-parts/content-search.php:28
+#: ../twentysixteen/template-parts/content-search.php:43
+#: ../twentysixteen/template-parts/content-single.php:47
+#: ../twentysixteen/template-parts/content.php:53
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:151
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: ../twentyseventeen/index.php:27
+msgid "Posts"
+msgstr ""
+
+#: ../twentyseventeen/searchform.php:17 ../twentysixteen/searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: ../twentyseventeen/searchform.php:20 ../twentysixteen/searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: ../twentyseventeen/single.php:33
+msgid "Previous Post"
+msgstr ""
+
+#: ../twentyseventeen/single.php:34
+msgid "Next Post"
+msgstr ""
+
+#: ../twentyseventeen/template-parts/header/site-branding.php:34
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr ""
+
+#: ../twentysixteen/footer.php:17
+msgid "Footer Primary Menu"
+msgstr ""
+
+#: ../twentysixteen/functions.php:177
+msgid "Content Bottom 1"
+msgstr ""
+
+#: ../twentysixteen/functions.php:179 ../twentysixteen/functions.php:191
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: ../twentysixteen/functions.php:189
+msgid "Content Bottom 2"
+msgstr ""
+
+#: ../twentysixteen/inc/back-compat.php:41
+#: ../twentysixteen/inc/back-compat.php:54
+#: ../twentysixteen/inc/back-compat.php:70
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:165
+msgid "Page Background Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:204
+msgid "Main Text Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:222
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:314
+msgid "Gray"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:324
+msgid "Red"
+msgstr ""
+
+#: ../twentysixteen/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
